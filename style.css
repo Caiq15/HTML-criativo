@@ -53,6 +53,8 @@
   
   #estudante{
     padding: 24px;
+    text-align: center;
+    color: aliceblue;
   }
   
   .estudante-imagem{
